@@ -1,1 +1,3 @@
-# NGR_Projekt_H
+# Changelog 
+
+Das New Generation Roleplay Hackersystem. 
